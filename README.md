@@ -1,4 +1,11 @@
 <h1 align="center">Hi 👋, I'm Harshita Singh</h1>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Bots%2C%20Developer!%22);print(%22Tanjiro%2C%20Kamado!%22);printf(%22Anupam%2C%20Maurya!%22);cout%20%3C%3C%20%22Web%2C%20Developer!%22&center=true&size=27&width=550">
+  </a>
+</h1>
+</br>
+
 <h3 align="center">A passionate web developer and android developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshitasingh198&label=Profile%20views&color=0e75b6&style=flat" alt="harshitasingh198" /> </p>
