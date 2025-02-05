@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm Harshita Singh</h1>
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+there;Append+<Web+Developers>!&center=true&size=27&width=550">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00A6FF&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;Passionate+About+Coding;Lifelong+Learner;Open+to+Exciting+Opportunities!">
   </a>
 </h1>
-<br/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshitasingh198&label=Profile%20views&color=0e75b6&style=flat" alt="harshitasingh198" /> </p>
 
