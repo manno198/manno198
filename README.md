@@ -5,7 +5,7 @@
   </a>
 </h1>
 
-- 📝 I write articles on [Blogspot](https://routestotech.blogspot.com/)
+- 📝 I write articles on [Blogspot](https://www.blogger.com/profile/18003405951123675118)
 
 - 📫 How to reach me **hsharshitaa99@gmail.com**
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshitasingh198&label=Profile%20views&color=0e75b6&style=flat" alt="harshitasingh198" /> </p>
